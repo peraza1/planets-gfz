@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Cold and dry, but everything is my favorite color.
 
 blah blah blah
@@ -7,3 +8,9 @@ banana
 apples and orange juice.
 
 these lines were added by Prayag!!
+=======
+Cold and dry, but everything is my favorite color..
+The two moons may be a problem for Wolfman.
+But the Mummy will appreciate the lack of humidity.
+another line just to makec conflict happen
+>>>>>>> 9384b8c56bae50711ee55af9f08adbf4c8d70e84
